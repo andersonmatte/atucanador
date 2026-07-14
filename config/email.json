@@ -1,0 +1,11 @@
+{
+  "smtpHost": "smtp.office365.com",
+  "smtpPort": 587,
+  "usuario": "remetente",
+  "senha": "senha",
+  "destinatario": "destinatário",
+  "assunto": "Atraso na entrega",
+  "intervalo": 5,
+  "tls": true,
+  "enviarAoIniciar": true
+}
